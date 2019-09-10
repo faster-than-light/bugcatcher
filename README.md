@@ -1,6 +1,9 @@
 # ftl
 Faster Than Light Command Line Test Client
 
+#### Installation
+The simplest way to use the client is to copy the `ftl` script to `/usr/local/bin` (probably using sudo), and it should work for any user.
+
 #### Usage
 
 ```
